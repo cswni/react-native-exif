@@ -1,0 +1,26 @@
+{
+  "name": "@cswni/react-native-exif",
+  "version": "1.0.0",
+  "description": "An image exif reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cswni/react-native-exif.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "exif"
+  ],
+  "author": "Francisco Sanchez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cswni/react-native-exif/issues"
+  },
+  "homepage": "https://github.com/cswni/react-native-exif#readme"
+}
